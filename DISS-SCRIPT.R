@@ -46,9 +46,9 @@ final_data<-final_data%>%
                           "ladder" = "Paralia",
                           "ex" = "Dictyocha",
                           "fluffy" = "Acantharia",
-                          "sally" = "copepod_B",
-                          "copopod" = "copepod_A",
-                          "naupilis"= "copepod_nauplii",
+                          "sally" = "Copepoda_B",
+                          "copopod" = "Copepoda_A",
+                          "naupilis"= "Copepoda_nauplii",
                           "foramifera" = "foraminifera"))%>%
   mutate(Zoo_Phyto= case_when(Species== "Acanthareans"~ "zooplankton",
                               TRUE ~ Zoo_Phyto))
@@ -517,6 +517,7 @@ nmds_plot <-(ggplot() +
                      plot.title = element_text(hjust = 0.5),
                      legend.key.size = unit(.25, "cm")))
 
+nmds_plot
 ggsave("nmds.png", plot = nmds_plot, width = 12, height = 8, dpi = 600) #saves modelled plot as png 
 
 #permanova
@@ -559,7 +560,7 @@ top<-(ggplot(top_species, aes(x = reorder(Species, mean_density),
                                      "Ceratium_other"="#8ec3de",
                                      "Ceratium_fusus"= "#8ec3de",
                                      "Dinophysis"= "#8ec3de",
-                                     "copepod_A" = "#b31529")) +
+                                     "Copepoda_A" = "#b31529")) +
         facet_wrap(~ coverage, scales = "free_y") +
         coord_flip() +
         labs(x = "Species", 
@@ -568,7 +569,7 @@ top<-(ggplot(top_species, aes(x = reorder(Species, mean_density),
         theme_classic() +
         theme(legend.position = "none"))
 
-
+top
 ggsave("top.png", plot = top, width = 12, height = 8, dpi = 600) #saves modelled plot as png 
 
 

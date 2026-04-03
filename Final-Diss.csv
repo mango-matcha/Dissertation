@@ -1,0 +1,911 @@
+ID,site ,Abundance ,Species ,Kelp?,Distance from kelp,Zoo_Phyto,Group,depth,coverage
+1A,A,13,CB,yes,0,phytoplankton,diatom,3.4,high
+1A,A,1,Space,yes,0,phytoplankton,dinoflagellete,3.4,high
+1A,A,2,spike,yes,0,phytoplankton,diatom ,3.4,high
+1A,A,6,pouch,yes,0,phytoplankton,dinoflagellete,3.4,high
+1A,A,2,star,yes,0,phytoplankton,diatom,3.4,high
+1A,A,1,2ball,yes,0,phytoplankton,diatom,3.4,high
+1A,A,0,ladder,yes,0,phytoplankton,diatom ,3.4,high
+1A,A,0,fluffy,yes,0,phytoplankton,misc,3.4,high
+1A,A,0,ex,yes,0,phytoplankton,misc,3.4,high
+1A,A,5,copopod,yes,0,zooplankton,,3.4,high
+1A,A,0,naupilis ,yes,0,zooplankton,,3.4,high
+1A,A,1,foramifera,yes,0,zooplankton,,3.4,high
+1A,A,0,sally,yes,0,zooplankton,,3.4,high
+2A,A,7,CB,yes,0,phytoplankton,diatom,4.5,high
+2A,A,2,Space,yes,0,phytoplankton,dinoflagellete,4.5,high
+2A,A,4,spike,yes,0,phytoplankton,diatom ,4.5,high
+2A,A,7,pouch,yes,0,phytoplankton,dinoflagellete,4.5,high
+2A,A,0,star,yes,0,phytoplankton,diatom,4.5,high
+2A,A,0,2ball,yes,0,phytoplankton,diatom,4.5,high
+2A,A,1,ladder,yes,0,phytoplankton,diatom ,4.5,high
+2A,A,0,fluffy,yes,0,phytoplankton,misc,4.5,high
+2A,A,0,ex,yes,0,phytoplankton,misc,4.5,high
+2A,A,5,copopod,yes,0,zooplankton,,4.5,high
+2A,A,3,naupilis ,yes,0,zooplankton,,4.5,high
+2A,A,0,foramifera,yes,0,zooplankton,,4.5,high
+2A,A,0,sally,yes,0,zooplankton,,4.5,high
+3A,A,16,CB,yes,0,phytoplankton,diatom,6.5,high
+3A,A,2,Space,yes,0,phytoplankton,dinoflagellete,6.5,high
+3A,A,5,spike,yes,0,phytoplankton,diatom ,6.5,high
+3A,A,4,pouch,yes,0,phytoplankton,dinoflagellete,6.5,high
+3A,A,4,star,yes,0,phytoplankton,diatom,6.5,high
+3A,A,0,2ball,yes,0,phytoplankton,diatom,6.5,high
+3A,A,1,ladder,yes,0,phytoplankton,diatom ,6.5,high
+3A,A,0,fluffy,yes,0,phytoplankton,misc,6.5,high
+3A,A,0,ex,yes,0,phytoplankton,misc,6.5,high
+3A,A,12,copopod,yes,0,zooplankton,,6.5,high
+3A,A,4,naupilis ,yes,0,zooplankton,,6.5,high
+3A,A,2,foramifera,yes,0,zooplankton,,6.5,high
+3A,A,0,sally,yes,0,zooplankton,,6.5,high
+4A,A,7,CB,yes,0,phytoplankton,diatom,5.5,high
+4A,A,0,Space,yes,0,phytoplankton,dinoflagellete,5.5,high
+4A,A,3,spike,yes,0,phytoplankton,diatom ,5.5,high
+4A,A,3,pouch,yes,0,phytoplankton,dinoflagellete,5.5,high
+4A,A,0,star,yes,0,phytoplankton,diatom,5.5,high
+4A,A,0,2ball,yes,0,phytoplankton,diatom,5.5,high
+4A,A,0,ladder,yes,0,phytoplankton,diatom ,5.5,high
+4A,A,0,fluffy,yes,0,phytoplankton,misc,5.5,high
+4A,A,0,ex,yes,0,phytoplankton,misc,5.5,high
+4A,A,2,copopod,yes,0,zooplankton,,5.5,high
+4A,A,0,naupilis ,yes,0,zooplankton,,5.5,high
+4A,A,0,foramifera,yes,0,zooplankton,,5.5,high
+4A,A,0,sally,yes,0,zooplankton,,5.5,high
+5A,A,15,CB,yes,0,phytoplankton,diatom,6.5,high
+5A,A,3,Space,yes,0,phytoplankton,dinoflagellete,6.5,high
+5A,A,4,spike,yes,0,phytoplankton,diatom ,6.5,high
+5A,A,7,pouch,yes,0,phytoplankton,dinoflagellete,6.5,high
+5A,A,1,star,yes,0,phytoplankton,diatom,6.5,high
+5A,A,1,2ball,yes,0,phytoplankton,diatom,6.5,high
+5A,A,1,ladder,yes,0,phytoplankton,diatom ,6.5,high
+5A,A,1,fluffy,yes,0,phytoplankton,misc,6.5,high
+5A,A,1,ex,yes,0,phytoplankton,misc,6.5,high
+5A,A,6,copopod,yes,0,zooplankton,,6.5,high
+5A,A,2,naupilis ,yes,0,zooplankton,,6.5,high
+5A,A,0,foramifera,yes,0,zooplankton,,6.5,high
+5A,A,0,sally,yes,0,zooplankton,,6.5,high
+6A,A,25,CB,yes,0,phytoplankton,diatom,5.8,high
+6A,A,4,Space,yes,0,phytoplankton,dinoflagellete,5.8,high
+6A,A,5,spike,yes,0,phytoplankton,diatom ,5.8,high
+6A,A,14,pouch,yes,0,phytoplankton,dinoflagellete,5.8,high
+6A,A,0,star,yes,0,phytoplankton,diatom,5.8,high
+6A,A,0,2ball,yes,0,phytoplankton,diatom,5.8,high
+6A,A,0,ladder,yes,0,phytoplankton,diatom ,5.8,high
+6A,A,0,fluffy,yes,0,phytoplankton,misc,5.8,high
+6A,A,1,ex,yes,0,phytoplankton,misc,5.8,high
+6A,A,24,copopod,yes,0,zooplankton,,5.8,high
+6A,A,7,naupilis ,yes,0,zooplankton,,5.8,high
+6A,A,0,foramifera,yes,0,zooplankton,,5.8,high
+6A,A,1,sally,yes,0,zooplankton,,5.8,high
+7A,A,28,CB,yes,0,phytoplankton,diatom,5,high
+7A,A,12,Space,yes,0,phytoplankton,dinoflagellete,5,high
+7A,A,18,spike,yes,0,phytoplankton,diatom ,5,high
+7A,A,20,pouch,yes,0,phytoplankton,dinoflagellete,5,high
+7A,A,1,star,yes,0,phytoplankton,diatom,5,high
+7A,A,1,2ball,yes,0,phytoplankton,diatom,5,high
+7A,A,1,ladder,yes,0,phytoplankton,diatom ,5,high
+7A,A,0,fluffy,yes,0,phytoplankton,misc,5,high
+7A,A,0,ex,yes,0,phytoplankton,misc,5,high
+7A,A,56,copopod,yes,0,zooplankton,,5,high
+7A,A,12,naupilis ,yes,0,zooplankton,,5,high
+7A,A,1,foramifera,yes,0,zooplankton,,5,high
+7A,A,5,sally,yes,0,zooplankton,,5,high
+8A,A,4,CB,yes,0,phytoplankton,diatom,4,high
+8A,A,1,Space,yes,0,phytoplankton,dinoflagellete,4,high
+8A,A,5,spike,yes,0,phytoplankton,diatom ,4,high
+8A,A,4,pouch,yes,0,phytoplankton,dinoflagellete,4,high
+8A,A,0,star,yes,0,phytoplankton,diatom,4,high
+8A,A,0,2ball,yes,0,phytoplankton,diatom,4,high
+8A,A,0,ladder,yes,0,phytoplankton,diatom ,4,high
+8A,A,0,fluffy,yes,0,phytoplankton,misc,4,high
+8A,A,0,ex,yes,0,phytoplankton,misc,4,high
+8A,A,18,copopod,yes,0,zooplankton,,4,high
+8A,A,0,naupilis ,yes,0,zooplankton,,4,high
+8A,A,1,foramifera,yes,0,zooplankton,,4,high
+8A,A,0,sally,yes,0,zooplankton,,4,high
+9A,A,18,CB,no,20,phytoplankton,diatom,4.3,medium
+9A,A,7,Space,no,20,phytoplankton,dinoflagellete,4.3,medium
+9A,A,5,spike,no,20,phytoplankton,diatom ,4.3,medium
+9A,A,8,pouch,no,20,phytoplankton,dinoflagellete,4.3,medium
+9A,A,0,star,no,20,phytoplankton,diatom,4.3,medium
+9A,A,0,2ball,no,20,phytoplankton,diatom,4.3,medium
+9A,A,1,ladder,no,20,phytoplankton,diatom ,4.3,medium
+9A,A,0,fluffy,no,20,phytoplankton,misc,4.3,medium
+9A,A,0,ex,no,20,phytoplankton,misc,4.3,medium
+9A,A,49,copopod,no,20,zooplankton,,4.3,medium
+9A,A,23,naupilis ,no,20,zooplankton,,4.3,medium
+9A,A,2,foramifera,no,20,zooplankton,,4.3,medium
+9A,A,3,sally,no,20,zooplankton,,4.3,medium
+10A,A,12,CB,no,20,phytoplankton,diatom,4.9,medium
+10A,A,3,Space,no,20,phytoplankton,dinoflagellete,4.9,medium
+10A,A,11,spike,no,20,phytoplankton,diatom ,4.9,medium
+10A,A,12,pouch,no,20,phytoplankton,dinoflagellete,4.9,medium
+10A,A,2,star,no,20,phytoplankton,diatom,4.9,medium
+10A,A,0,2ball,no,20,phytoplankton,diatom,4.9,medium
+10A,A,0,ladder,no,20,phytoplankton,diatom ,4.9,medium
+10A,A,0,fluffy,no,20,phytoplankton,misc,4.9,medium
+10A,A,0,ex,no,20,phytoplankton,misc,4.9,medium
+10A,A,58,copopod,no,20,zooplankton,,4.9,medium
+10A,A,17,naupilis ,no,20,zooplankton,,4.9,medium
+10A,A,1,foramifera,no,20,zooplankton,,4.9,medium
+10A,A,6,sally,no,20,zooplankton,,4.9,medium
+11A,A,3,CB,no,20,phytoplankton,diatom,6.5,medium
+11A,A,3,Space,no,20,phytoplankton,dinoflagellete,6.5,medium
+11A,A,5,spike,no,20,phytoplankton,diatom ,6.5,medium
+11A,A,5,pouch,no,20,phytoplankton,dinoflagellete,6.5,medium
+11A,A,1,star,no,20,phytoplankton,diatom,6.5,medium
+11A,A,0,2ball,no,20,phytoplankton,diatom,6.5,medium
+11A,A,0,ladder,no,20,phytoplankton,diatom ,6.5,medium
+11A,A,0,fluffy,no,20,phytoplankton,misc,6.5,medium
+11A,A,0,ex,no,20,phytoplankton,misc,6.5,medium
+11A,A,35,copopod,no,20,zooplankton,,6.5,medium
+11A,A,16,naupilis ,no,20,zooplankton,,6.5,medium
+11A,A,1,foramifera,no,20,zooplankton,,6.5,medium
+11A,A,8,sally,no,20,zooplankton,,6.5,medium
+12A,A,4,CB,no,20,phytoplankton,diatom,7.8,medium
+12A,A,4,Space,no,20,phytoplankton,dinoflagellete,7.8,medium
+12A,A,11,spike,no,20,phytoplankton,diatom ,7.8,medium
+12A,A,16,pouch,no,20,phytoplankton,dinoflagellete,7.8,medium
+12A,A,0,star,no,20,phytoplankton,diatom,7.8,medium
+12A,A,0,2ball,no,20,phytoplankton,diatom,7.8,medium
+12A,A,0,ladder,no,20,phytoplankton,diatom ,7.8,medium
+12A,A,0,fluffy,no,20,phytoplankton,misc,7.8,medium
+12A,A,0,ex,no,20,phytoplankton,misc,7.8,medium
+12A,A,33,copopod,no,20,zooplankton,,7.8,medium
+12A,A,15,naupilis ,no,20,zooplankton,,7.8,medium
+12A,A,0,foramifera,no,20,zooplankton,,7.8,medium
+12A,A,3,sally,no,20,zooplankton,,7.8,medium
+13A,A,12,CB,no,40,phytoplankton,diatom,6.9,medium
+13A,A,5,Space,no,40,phytoplankton,dinoflagellete,6.9,medium
+13A,A,16,spike,no,40,phytoplankton,diatom ,6.9,medium
+13A,A,17,pouch,no,40,phytoplankton,dinoflagellete,6.9,medium
+13A,A,0,star,no,40,phytoplankton,diatom,6.9,medium
+13A,A,0,2ball,no,40,phytoplankton,diatom,6.9,medium
+13A,A,0,ladder,no,40,phytoplankton,diatom ,6.9,medium
+13A,A,0,fluffy,no,40,phytoplankton,misc,6.9,medium
+13A,A,0,ex,no,40,phytoplankton,misc,6.9,medium
+13A,A,87,copopod,no,40,zooplankton,,6.9,medium
+13A,A,13,naupilis ,no,40,zooplankton,,6.9,medium
+13A,A,2,foramifera,no,40,zooplankton,,6.9,medium
+13A,A,4,sally,no,40,zooplankton,,6.9,medium
+14A,A,11,CB,no,40,phytoplankton,diatom,6.5,medium
+14A,A,7,Space,no,40,phytoplankton,dinoflagellete,6.5,medium
+14A,A,18,spike,no,40,phytoplankton,diatom ,6.5,medium
+14A,A,26,pouch,no,40,phytoplankton,dinoflagellete,6.5,medium
+14A,A,0,star,no,40,phytoplankton,diatom,6.5,medium
+14A,A,0,2ball,no,40,phytoplankton,diatom,6.5,medium
+14A,A,0,ladder,no,40,phytoplankton,diatom ,6.5,medium
+14A,A,0,fluffy,no,40,phytoplankton,misc,6.5,medium
+14A,A,0,ex,no,40,phytoplankton,misc,6.5,medium
+14A,A,141,copopod,no,40,zooplankton,,6.5,medium
+14A,A,42,naupilis ,no,40,zooplankton,,6.5,medium
+14A,A,1,foramifera,no,40,zooplankton,,6.5,medium
+14A,A,9,sally,no,40,zooplankton,,6.5,medium
+15A,A,24,CB,no,40,phytoplankton,diatom,5.6,medium
+15A,A,9,Space,no,40,phytoplankton,dinoflagellete,5.6,medium
+15A,A,16,spike,no,40,phytoplankton,diatom ,5.6,medium
+15A,A,20,pouch,no,40,phytoplankton,dinoflagellete,5.6,medium
+15A,A,2,star,no,40,phytoplankton,diatom,5.6,medium
+15A,A,0,2ball,no,40,phytoplankton,diatom,5.6,medium
+15A,A,2,ladder,no,40,phytoplankton,diatom ,5.6,medium
+15A,A,0,fluffy,no,40,phytoplankton,misc,5.6,medium
+15A,A,0,ex,no,40,phytoplankton,misc,5.6,medium
+15A,A,105,copopod,no,40,zooplankton,,5.6,medium
+15A,A,26,naupilis ,no,40,zooplankton,,5.6,medium
+15A,A,3,foramifera,no,40,zooplankton,,5.6,medium
+15A,A,9,sally,no,40,zooplankton,,5.6,medium
+16A,A,10,CB,no,40,phytoplankton,diatom,4.2,medium
+16A,A,4,Space,no,40,phytoplankton,dinoflagellete,4.2,medium
+16A,A,7,spike,no,40,phytoplankton,diatom ,4.2,medium
+16A,A,7,pouch,no,40,phytoplankton,dinoflagellete,4.2,medium
+16A,A,0,star,no,40,phytoplankton,diatom,4.2,medium
+16A,A,0,2ball,no,40,phytoplankton,diatom,4.2,medium
+16A,A,0,ladder,no,40,phytoplankton,diatom ,4.2,medium
+16A,A,0,fluffy,no,40,phytoplankton,misc,4.2,medium
+16A,A,0,ex,no,40,phytoplankton,misc,4.2,medium
+16A,A,47,copopod,no,40,zooplankton,,4.2,medium
+16A,A,10,naupilis ,no,40,zooplankton,,4.2,medium
+16A,A,5,foramifera,no,40,zooplankton,,4.2,medium
+16A,A,3,sally,no,40,zooplankton,,4.2,medium
+17A,A,8,CB,no,60,phytoplankton,diatom,4.8,low
+17A,A,3,Space,no,60,phytoplankton,dinoflagellete,4.8,low
+17A,A,14,spike,no,60,phytoplankton,diatom ,4.8,low
+17A,A,12,pouch,no,60,phytoplankton,dinoflagellete,4.8,low
+17A,A,1,star,no,60,phytoplankton,diatom,4.8,low
+17A,A,1,2ball,no,60,phytoplankton,diatom,4.8,low
+17A,A,0,ladder,no,60,phytoplankton,diatom ,4.8,low
+17A,A,0,fluffy,no,60,phytoplankton,misc,4.8,low
+17A,A,0,ex,no,60,phytoplankton,misc,4.8,low
+17A,A,188,copopod,no,60,zooplankton,,4.8,low
+17A,A,14,naupilis ,no,60,zooplankton,,4.8,low
+17A,A,0,foramifera,no,60,zooplankton,,4.8,low
+17A,A,2,sally,no,60,zooplankton,,4.8,low
+18A,A,10,CB,no,60,phytoplankton,diatom,6.4,low
+18A,A,6,Space,no,60,phytoplankton,dinoflagellete,6.4,low
+18A,A,25,spike,no,60,phytoplankton,diatom ,6.4,low
+18A,A,27,pouch,no,60,phytoplankton,dinoflagellete,6.4,low
+18A,A,1,star,no,60,phytoplankton,diatom,6.4,low
+18A,A,1,2ball,no,60,phytoplankton,diatom,6.4,low
+18A,A,0,ladder,no,60,phytoplankton,diatom ,6.4,low
+18A,A,0,fluffy,no,60,phytoplankton,misc,6.4,low
+18A,A,0,ex,no,60,phytoplankton,misc,6.4,low
+18A,A,220,copopod,no,60,zooplankton,,6.4,low
+18A,A,46,naupilis ,no,60,zooplankton,,6.4,low
+18A,A,2,foramifera,no,60,zooplankton,,6.4,low
+18A,A,9,sally,no,60,zooplankton,,6.4,low
+19A,A,1,CB,no,60,phytoplankton,diatom,6.5,low
+19A,A,1,Space,no,60,phytoplankton,dinoflagellete,6.5,low
+19A,A,1,spike,no,60,phytoplankton,diatom ,6.5,low
+19A,A,4,pouch,no,60,phytoplankton,dinoflagellete,6.5,low
+19A,A,0,star,no,60,phytoplankton,diatom,6.5,low
+19A,A,0,2ball,no,60,phytoplankton,diatom,6.5,low
+19A,A,0,ladder,no,60,phytoplankton,diatom ,6.5,low
+19A,A,0,fluffy,no,60,phytoplankton,misc,6.5,low
+19A,A,0,ex,no,60,phytoplankton,misc,6.5,low
+19A,A,96,copopod,no,60,zooplankton,,6.5,low
+19A,A,30,naupilis ,no,60,zooplankton,,6.5,low
+19A,A,1,foramifera,no,60,zooplankton,,6.5,low
+19A,A,8,sally,no,60,zooplankton,,6.5,low
+20A,A,24,CB,no,60,phytoplankton,diatom,6.9,low
+20A,A,25,Space,no,60,phytoplankton,dinoflagellete,6.9,low
+20A,A,34,spike,no,60,phytoplankton,diatom ,6.9,low
+20A,A,34,pouch,no,60,phytoplankton,dinoflagellete,6.9,low
+20A,A,0,star,no,60,phytoplankton,diatom,6.9,low
+20A,A,0,2ball,no,60,phytoplankton,diatom,6.9,low
+20A,A,1,ladder,no,60,phytoplankton,diatom ,6.9,low
+20A,A,0,fluffy,no,60,phytoplankton,misc,6.9,low
+20A,A,0,ex,no,60,phytoplankton,misc,6.9,low
+20A,A,404,copopod,no,60,zooplankton,,6.9,low
+20A,A,0,naupilis ,no,60,zooplankton,,6.9,low
+20A,A,0,foramifera,no,60,zooplankton,,6.9,low
+20A,A,0,sally,no,60,zooplankton,,6.9,low
+1C,C,6,CB,yes,0,phytoplankton,diatom,4.9,high
+1C,C,1,Space,yes,0,phytoplankton,dinoflagellete,4.9,high
+1C,C,0,spike,yes,0,phytoplankton,diatom ,4.9,high
+1C,C,3,pouch,yes,0,phytoplankton,dinoflagellete,4.9,high
+1C,C,0,star,yes,0,phytoplankton,diatom,4.9,high
+1C,C,0,2ball,yes,0,phytoplankton,diatom,4.9,high
+1C,C,0,ladder,yes,0,phytoplankton,diatom ,4.9,high
+1C,C,0,fluffy,yes,0,phytoplankton,misc,4.9,high
+1C,C,0,ex,yes,0,phytoplankton,misc,4.9,high
+1C,C,6,copopod,yes,0,zooplankton,,4.9,high
+1C,C,0,naupilis ,yes,0,zooplankton,,4.9,high
+1C,C,0,foramifera,yes,0,zooplankton,,4.9,high
+1C,C,0,sally,yes,0,zooplankton,,4.9,high
+2C,C,1,CB,no,60,phytoplankton,diatom,2,low
+2C,C,0,Space,no,60,phytoplankton,dinoflagellete,2,low
+2C,C,1,spike,no,60,phytoplankton,diatom ,2,low
+2C,C,1,pouch,no,60,phytoplankton,dinoflagellete,2,low
+2C,C,2,star,no,60,phytoplankton,diatom,2,low
+2C,C,0,2ball,no,60,phytoplankton,diatom,2,low
+2C,C,1,ladder,no,60,phytoplankton,diatom ,2,low
+2C,C,0,fluffy,no,60,phytoplankton,misc,2,low
+2C,C,0,ex,no,60,phytoplankton,misc,2,low
+2C,C,2,copopod,no,60,zooplankton,,2,low
+2C,C,1,naupilis ,no,60,zooplankton,,2,low
+2C,C,0,foramifera,no,60,zooplankton,,2,low
+2C,C,0,sally,no,60,zooplankton,,2,low
+3C,C,5,CB,no,40,phytoplankton,diatom,2.5,medium
+3C,C,0,Space,no,40,phytoplankton,dinoflagellete,2.5,medium
+3C,C,0,spike,no,40,phytoplankton,diatom ,2.5,medium
+3C,C,3,pouch,no,40,phytoplankton,dinoflagellete,2.5,medium
+3C,C,0,star,no,40,phytoplankton,diatom,2.5,medium
+3C,C,0,2ball,no,40,phytoplankton,diatom,2.5,medium
+3C,C,0,ladder,no,40,phytoplankton,diatom ,2.5,medium
+3C,C,0,fluffy,no,40,phytoplankton,misc,2.5,medium
+3C,C,0,ex,no,40,phytoplankton,misc,2.5,medium
+3C,C,3,copopod,no,40,zooplankton,,2.5,medium
+3C,C,2,naupilis ,no,40,zooplankton,,2.5,medium
+3C,C,0,foramifera,no,40,zooplankton,,2.5,medium
+3C,C,1,sally,no,40,zooplankton,,2.5,medium
+4C,C,5,CB,no,20,phytoplankton,diatom,3,medium
+4C,C,0,Space,no,20,phytoplankton,dinoflagellete,3,medium
+4C,C,2,spike,no,20,phytoplankton,diatom ,3,medium
+4C,C,2,pouch,no,20,phytoplankton,dinoflagellete,3,medium
+4C,C,1,star,no,20,phytoplankton,diatom,3,medium
+4C,C,0,2ball,no,20,phytoplankton,diatom,3,medium
+4C,C,0,ladder,no,20,phytoplankton,diatom ,3,medium
+4C,C,0,fluffy,no,20,phytoplankton,misc,3,medium
+4C,C,0,ex,no,20,phytoplankton,misc,3,medium
+4C,C,4,copopod,no,20,zooplankton,,3,medium
+4C,C,0,naupilis ,no,20,zooplankton,,3,medium
+4C,C,1,foramifera,no,20,zooplankton,,3,medium
+4C,C,0,sally,no,20,zooplankton,,3,medium
+5C,C,3,CB,no,20,phytoplankton,diatom,3.5,medium
+5C,C,2,Space,no,20,phytoplankton,dinoflagellete,3.5,medium
+5C,C,1,spike,no,20,phytoplankton,diatom ,3.5,medium
+5C,C,1,pouch,no,20,phytoplankton,dinoflagellete,3.5,medium
+5C,C,2,star,no,20,phytoplankton,diatom,3.5,medium
+5C,C,0,2ball,no,20,phytoplankton,diatom,3.5,medium
+5C,C,0,ladder,no,20,phytoplankton,diatom ,3.5,medium
+5C,C,0,fluffy,no,20,phytoplankton,misc,3.5,medium
+5C,C,0,ex,no,20,phytoplankton,misc,3.5,medium
+5C,C,5,copopod,no,20,zooplankton,,3.5,medium
+5C,C,3,naupilis ,no,20,zooplankton,,3.5,medium
+5C,C,1,foramifera,no,20,zooplankton,,3.5,medium
+5C,C,0,sally,no,20,zooplankton,,3.5,medium
+6C,C,8,CB,no,40,phytoplankton,diatom,3.5,medium
+6C,C,5,Space,no,40,phytoplankton,dinoflagellete,3.5,medium
+6C,C,3,spike,no,40,phytoplankton,diatom ,3.5,medium
+6C,C,9,pouch,no,40,phytoplankton,dinoflagellete,3.5,medium
+6C,C,1,star,no,40,phytoplankton,diatom,3.5,medium
+6C,C,0,2ball,no,40,phytoplankton,diatom,3.5,medium
+6C,C,0,ladder,no,40,phytoplankton,diatom ,3.5,medium
+6C,C,0,fluffy,no,40,phytoplankton,misc,3.5,medium
+6C,C,0,ex,no,40,phytoplankton,misc,3.5,medium
+6C,C,9,copopod,no,40,zooplankton,,3.5,medium
+6C,C,5,naupilis ,no,40,zooplankton,,3.5,medium
+6C,C,1,foramifera,no,40,zooplankton,,3.5,medium
+6C,C,3,sally,no,40,zooplankton,,3.5,medium
+7C,C,2,CB,no,60,phytoplankton,diatom,3.3,low
+7C,C,1,Space,no,60,phytoplankton,dinoflagellete,3.3,low
+7C,C,2,spike,no,60,phytoplankton,diatom ,3.3,low
+7C,C,1,pouch,no,60,phytoplankton,dinoflagellete,3.3,low
+7C,C,0,star,no,60,phytoplankton,diatom,3.3,low
+7C,C,0,2ball,no,60,phytoplankton,diatom,3.3,low
+7C,C,0,ladder,no,60,phytoplankton,diatom ,3.3,low
+7C,C,0,fluffy,no,60,phytoplankton,misc,3.3,low
+7C,C,0,ex,no,60,phytoplankton,misc,3.3,low
+7C,C,25,copopod,no,60,zooplankton,,3.3,low
+7C,C,1,naupilis ,no,60,zooplankton,,3.3,low
+7C,C,0,foramifera,no,60,zooplankton,,3.3,low
+7C,C,3,sally,no,60,zooplankton,,3.3,low
+8C,C,8,CB,yes,0,phytoplankton,diatom,4.9,high
+8C,C,1,Space,yes,0,phytoplankton,dinoflagellete,4.9,high
+8C,C,6,spike,yes,0,phytoplankton,diatom ,4.9,high
+8C,C,2,pouch,yes,0,phytoplankton,dinoflagellete,4.9,high
+8C,C,0,star,yes,0,phytoplankton,diatom,4.9,high
+8C,C,0,2ball,yes,0,phytoplankton,diatom,4.9,high
+8C,C,0,ladder,yes,0,phytoplankton,diatom ,4.9,high
+8C,C,0,fluffy,yes,0,phytoplankton,misc,4.9,high
+8C,C,0,ex,yes,0,phytoplankton,misc,4.9,high
+8C,C,6,copopod,yes,0,zooplankton,,4.9,high
+8C,C,0,naupilis ,yes,0,zooplankton,,4.9,high
+8C,C,0,foramifera,yes,0,zooplankton,,4.9,high
+8C,C,1,sally,yes,0,zooplankton,,4.9,high
+9C,C,1,CB,yes,0,phytoplankton,diatom,6.2,high
+9C,C,0,Space,yes,0,phytoplankton,dinoflagellete,6.2,high
+9C,C,4,spike,yes,0,phytoplankton,diatom ,6.2,high
+9C,C,2,pouch,yes,0,phytoplankton,dinoflagellete,6.2,high
+9C,C,0,star,yes,0,phytoplankton,diatom,6.2,high
+9C,C,0,2ball,yes,0,phytoplankton,diatom,6.2,high
+9C,C,0,ladder,yes,0,phytoplankton,diatom ,6.2,high
+9C,C,1,fluffy,yes,0,phytoplankton,misc,6.2,high
+9C,C,0,ex,yes,0,phytoplankton,misc,6.2,high
+9C,C,4,copopod,yes,0,zooplankton,,6.2,high
+9C,C,1,naupilis ,yes,0,zooplankton,,6.2,high
+9C,C,0,foramifera,yes,0,zooplankton,,6.2,high
+9C,C,0,sally,yes,0,zooplankton,,6.2,high
+10C,C,5,CB,yes,60,phytoplankton,diatom,3.2,low
+10C,C,1,Space,yes,60,phytoplankton,dinoflagellete,3.2,low
+10C,C,6,spike,yes,60,phytoplankton,diatom ,3.2,low
+10C,C,7,pouch,yes,60,phytoplankton,dinoflagellete,3.2,low
+10C,C,1,star,yes,60,phytoplankton,diatom,3.2,low
+10C,C,0,2ball,yes,60,phytoplankton,diatom,3.2,low
+10C,C,0,ladder,yes,60,phytoplankton,diatom ,3.2,low
+10C,C,0,fluffy,yes,60,phytoplankton,misc,3.2,low
+10C,C,0,ex,yes,60,phytoplankton,misc,3.2,low
+10C,C,52,copopod,yes,60,zooplankton,,3.2,low
+10C,C,3,naupilis ,yes,60,zooplankton,,3.2,low
+10C,C,1,foramifera,yes,60,zooplankton,,3.2,low
+10C,C,2,sally,yes,60,zooplankton,,3.2,low
+11C,C,4,CB,no,40,phytoplankton,diatom,3.5,medium
+11C,C,2,Space,no,40,phytoplankton,dinoflagellete,3.5,medium
+11C,C,3,spike,no,40,phytoplankton,diatom ,3.5,medium
+11C,C,6,pouch,no,40,phytoplankton,dinoflagellete,3.5,medium
+11C,C,1,star,no,40,phytoplankton,diatom,3.5,medium
+11C,C,0,2ball,no,40,phytoplankton,diatom,3.5,medium
+11C,C,0,ladder,no,40,phytoplankton,diatom ,3.5,medium
+11C,C,0,fluffy,no,40,phytoplankton,misc,3.5,medium
+11C,C,0,ex,no,40,phytoplankton,misc,3.5,medium
+11C,C,6,copopod,no,40,zooplankton,,3.5,medium
+11C,C,4,naupilis ,no,40,zooplankton,,3.5,medium
+11C,C,0,foramifera,no,40,zooplankton,,3.5,medium
+11C,C,0,sally,no,40,zooplankton,,3.5,medium
+12C,C,1,CB,no,20,phytoplankton,diatom,5.3,medium
+12C,C,1,Space,no,20,phytoplankton,dinoflagellete,5.3,medium
+12C,C,2,spike,no,20,phytoplankton,diatom ,5.3,medium
+12C,C,2,pouch,no,20,phytoplankton,dinoflagellete,5.3,medium
+12C,C,1,star,no,20,phytoplankton,diatom,5.3,medium
+12C,C,0,2ball,no,20,phytoplankton,diatom,5.3,medium
+12C,C,0,ladder,no,20,phytoplankton,diatom ,5.3,medium
+12C,C,0,fluffy,no,20,phytoplankton,misc,5.3,medium
+12C,C,0,ex,no,20,phytoplankton,misc,5.3,medium
+12C,C,7,copopod,no,20,zooplankton,,5.3,medium
+12C,C,0,naupilis ,no,20,zooplankton,,5.3,medium
+12C,C,0,foramifera,no,20,zooplankton,,5.3,medium
+12C,C,1,sally,no,20,zooplankton,,5.3,medium
+13C,C,6,CB,yes,20,phytoplankton,diatom,3.8,medium
+13C,C,4,Space,yes,20,phytoplankton,dinoflagellete,3.8,medium
+13C,C,0,spike,yes,20,phytoplankton,diatom ,3.8,medium
+13C,C,0,pouch,yes,20,phytoplankton,dinoflagellete,3.8,medium
+13C,C,0,star,yes,20,phytoplankton,diatom,3.8,medium
+13C,C,0,2ball,yes,20,phytoplankton,diatom,3.8,medium
+13C,C,0,ladder,yes,20,phytoplankton,diatom ,3.8,medium
+13C,C,0,fluffy,yes,20,phytoplankton,misc,3.8,medium
+13C,C,0,ex,yes,20,phytoplankton,misc,3.8,medium
+13C,C,11,copopod,yes,20,zooplankton,,3.8,medium
+13C,C,5,naupilis ,yes,20,zooplankton,,3.8,medium
+13C,C,0,foramifera,yes,20,zooplankton,,3.8,medium
+13C,C,0,sally,yes,20,zooplankton,,3.8,medium
+14C,C,5,CB,no,40,phytoplankton,diatom,3.1,medium
+14C,C,1,Space,no,40,phytoplankton,dinoflagellete,3.1,medium
+14C,C,4,spike,no,40,phytoplankton,diatom ,3.1,medium
+14C,C,2,pouch,no,40,phytoplankton,dinoflagellete,3.1,medium
+14C,C,2,star,no,40,phytoplankton,diatom,3.1,medium
+14C,C,0,2ball,no,40,phytoplankton,diatom,3.1,medium
+14C,C,0,ladder,no,40,phytoplankton,diatom ,3.1,medium
+14C,C,0,fluffy,no,40,phytoplankton,misc,3.1,medium
+14C,C,0,ex,no,40,phytoplankton,misc,3.1,medium
+14C,C,6,copopod,no,40,zooplankton,,3.1,medium
+14C,C,2,naupilis ,no,40,zooplankton,,3.1,medium
+14C,C,0,foramifera,no,40,zooplankton,,3.1,medium
+14C,C,0,sally,no,40,zooplankton,,3.1,medium
+15C,C,10,CB,yes,60,phytoplankton,diatom,4,low
+15C,C,1,Space,yes,60,phytoplankton,dinoflagellete,4,low
+15C,C,1,spike,yes,60,phytoplankton,diatom ,4,low
+15C,C,4,pouch,yes,60,phytoplankton,dinoflagellete,4,low
+15C,C,0,star,yes,60,phytoplankton,diatom,4,low
+15C,C,0,2ball,yes,60,phytoplankton,diatom,4,low
+15C,C,1,ladder,yes,60,phytoplankton,diatom ,4,low
+15C,C,0,fluffy,yes,60,phytoplankton,misc,4,low
+15C,C,0,ex,yes,60,phytoplankton,misc,4,low
+15C,C,9,copopod,yes,60,zooplankton,,4,low
+15C,C,0,naupilis ,yes,60,zooplankton,,4,low
+15C,C,1,foramifera,yes,60,zooplankton,,4,low
+15C,C,3,sally,yes,60,zooplankton,,4,low
+16C,C,14,CB,yes,0,phytoplankton,diatom,7,high
+16C,C,6,Space,yes,0,phytoplankton,dinoflagellete,7,high
+16C,C,6,spike,yes,0,phytoplankton,diatom ,7,high
+16C,C,16,pouch,yes,0,phytoplankton,dinoflagellete,7,high
+16C,C,1,star,yes,0,phytoplankton,diatom,7,high
+16C,C,1,2ball,yes,0,phytoplankton,diatom,7,high
+16C,C,0,ladder,yes,0,phytoplankton,diatom ,7,high
+16C,C,0,fluffy,yes,0,phytoplankton,misc,7,high
+16C,C,0,ex,yes,0,phytoplankton,misc,7,high
+16C,C,10,copopod,yes,0,zooplankton,,7,high
+16C,C,2,naupilis ,yes,0,zooplankton,,7,high
+16C,C,2,foramifera,yes,0,zooplankton,,7,high
+16C,C,1,sally,yes,0,zooplankton,,7,high
+17C,C,14,CB,yes,0,phytoplankton,diatom,6,high
+17C,C,0,Space,yes,0,phytoplankton,dinoflagellete,6,high
+17C,C,3,spike,yes,0,phytoplankton,diatom ,6,high
+17C,C,7,pouch,yes,0,phytoplankton,dinoflagellete,6,high
+17C,C,1,star,yes,0,phytoplankton,diatom,6,high
+17C,C,0,2ball,yes,0,phytoplankton,diatom,6,high
+17C,C,0,ladder,yes,0,phytoplankton,diatom ,6,high
+17C,C,0,fluffy,yes,0,phytoplankton,misc,6,high
+17C,C,0,ex,yes,0,phytoplankton,misc,6,high
+17C,C,11,copopod,yes,0,zooplankton,,6,high
+17C,C,9,naupilis ,yes,0,zooplankton,,6,high
+17C,C,1,foramifera,yes,0,zooplankton,,6,high
+17C,C,2,sally,yes,0,zooplankton,,6,high
+18C,C,1,CB,no,60,phytoplankton,diatom,2.5,low
+18C,C,1,Space,no,60,phytoplankton,dinoflagellete,2.5,low
+18C,C,1,spike,no,60,phytoplankton,diatom ,2.5,low
+18C,C,1,pouch,no,60,phytoplankton,dinoflagellete,2.5,low
+18C,C,0,star,no,60,phytoplankton,diatom,2.5,low
+18C,C,0,2ball,no,60,phytoplankton,diatom,2.5,low
+18C,C,0,ladder,no,60,phytoplankton,diatom ,2.5,low
+18C,C,0,fluffy,no,60,phytoplankton,misc,2.5,low
+18C,C,0,ex,no,60,phytoplankton,misc,2.5,low
+18C,C,9,copopod,no,60,zooplankton,,2.5,low
+18C,C,0,naupilis ,no,60,zooplankton,,2.5,low
+18C,C,0,foramifera,no,60,zooplankton,,2.5,low
+18C,C,0,sally,no,60,zooplankton,,2.5,low
+19C,C,1,CB,no,40,phytoplankton,diatom,3,medium
+19C,C,0,Space,no,40,phytoplankton,dinoflagellete,3,medium
+19C,C,2,spike,no,40,phytoplankton,diatom ,3,medium
+19C,C,1,pouch,no,40,phytoplankton,dinoflagellete,3,medium
+19C,C,1,star,no,40,phytoplankton,diatom,3,medium
+19C,C,0,2ball,no,40,phytoplankton,diatom,3,medium
+19C,C,2,ladder,no,40,phytoplankton,diatom ,3,medium
+19C,C,0,fluffy,no,40,phytoplankton,misc,3,medium
+19C,C,0,ex,no,40,phytoplankton,misc,3,medium
+19C,C,8,copopod,no,40,zooplankton,,3,medium
+19C,C,0,naupilis ,no,40,zooplankton,,3,medium
+19C,C,0,foramifera,no,40,zooplankton,,3,medium
+19C,C,0,sally,no,40,zooplankton,,3,medium
+20C,C,5,CB,no,20,phytoplankton,diatom,5,medium
+20C,C,0,Space,no,20,phytoplankton,dinoflagellete,5,medium
+20C,C,4,spike,no,20,phytoplankton,diatom ,5,medium
+20C,C,5,pouch,no,20,phytoplankton,dinoflagellete,5,medium
+20C,C,0,star,no,20,phytoplankton,diatom,5,medium
+20C,C,0,2ball,no,20,phytoplankton,diatom,5,medium
+20C,C,0,ladder,no,20,phytoplankton,diatom ,5,medium
+20C,C,0,fluffy,no,20,phytoplankton,misc,5,medium
+20C,C,1,ex,no,20,phytoplankton,misc,5,medium
+20C,C,14,copopod,no,20,zooplankton,,5,medium
+20C,C,3,naupilis ,no,20,zooplankton,,5,medium
+20C,C,1,foramifera,no,20,zooplankton,,5,medium
+20C,C,0,sally,no,20,zooplankton,,5,medium
+1D,D,11,CB,yes,0,phytoplankton,diatom,1,high
+1D,D,0,Space,yes,0,phytoplankton,dinoflagellete,1,high
+1D,D,0,spike,yes,0,phytoplankton,diatom ,1,high
+1D,D,3,pouch,yes,0,phytoplankton,dinoflagellete,1,high
+1D,D,0,star,yes,0,phytoplankton,diatom,1,high
+1D,D,0,2ball,yes,0,phytoplankton,diatom,1,high
+1D,D,0,ladder,yes,0,phytoplankton,diatom ,1,high
+1D,D,0,fluffy,yes,0,phytoplankton,misc,1,high
+1D,D,0,ex,yes,0,phytoplankton,misc,1,high
+1D,D,0,copopod,yes,0,zooplankton,,1,high
+1D,D,0,naupilis ,yes,0,zooplankton,,1,high
+1D,D,0,foramifera,yes,0,zooplankton,,1,high
+1D,D,0,sally,yes,0,zooplankton,,1,high
+2D,D,6,CB,yes,0,phytoplankton,diatom,2.4,high
+2D,D,1,Space,yes,0,phytoplankton,dinoflagellete,2.4,high
+2D,D,0,spike,yes,0,phytoplankton,diatom ,2.4,high
+2D,D,0,pouch,yes,0,phytoplankton,dinoflagellete,2.4,high
+2D,D,1,star,yes,0,phytoplankton,diatom,2.4,high
+2D,D,0,2ball,yes,0,phytoplankton,diatom,2.4,high
+2D,D,0,ladder,yes,0,phytoplankton,diatom ,2.4,high
+2D,D,0,fluffy,yes,0,phytoplankton,misc,2.4,high
+2D,D,0,ex,yes,0,phytoplankton,misc,2.4,high
+2D,D,5,copopod,yes,0,zooplankton,,2.4,high
+2D,D,0,naupilis ,yes,0,zooplankton,,2.4,high
+2D,D,0,foramifera,yes,0,zooplankton,,2.4,high
+2D,D,0,sally,yes,0,zooplankton,,2.4,high
+3D,D,11,CB,yes,0,phytoplankton,diatom,1.5,high
+3D,D,5,Space,yes,0,phytoplankton,dinoflagellete,1.5,high
+3D,D,0,spike,yes,0,phytoplankton,diatom ,1.5,high
+3D,D,4,pouch,yes,0,phytoplankton,dinoflagellete,1.5,high
+3D,D,1,star,yes,0,phytoplankton,diatom,1.5,high
+3D,D,0,2ball,yes,0,phytoplankton,diatom,1.5,high
+3D,D,1,ladder,yes,0,phytoplankton,diatom ,1.5,high
+3D,D,0,fluffy,yes,0,phytoplankton,misc,1.5,high
+3D,D,0,ex,yes,0,phytoplankton,misc,1.5,high
+3D,D,2,copopod,yes,0,zooplankton,,1.5,high
+3D,D,0,naupilis ,yes,0,zooplankton,,1.5,high
+3D,D,0,foramifera,yes,0,zooplankton,,1.5,high
+3D,D,2,sally,yes,0,zooplankton,,1.5,high
+4D,D,4,CB,yes,0,phytoplankton,diatom,1.5,high
+4D,D,0,Space,yes,0,phytoplankton,dinoflagellete,1.5,high
+4D,D,2,spike,yes,0,phytoplankton,diatom ,1.5,high
+4D,D,1,pouch,yes,0,phytoplankton,dinoflagellete,1.5,high
+4D,D,0,star,yes,0,phytoplankton,diatom,1.5,high
+4D,D,0,2ball,yes,0,phytoplankton,diatom,1.5,high
+4D,D,0,ladder,yes,0,phytoplankton,diatom ,1.5,high
+4D,D,0,fluffy,yes,0,phytoplankton,misc,1.5,high
+4D,D,0,ex,yes,0,phytoplankton,misc,1.5,high
+4D,D,2,copopod,yes,0,zooplankton,,1.5,high
+4D,D,0,naupilis ,yes,0,zooplankton,,1.5,high
+4D,D,1,foramifera,yes,0,zooplankton,,1.5,high
+4D,D,0,sally,yes,0,zooplankton,,1.5,high
+5D,D,17,CB,yes,0,phytoplankton,diatom,2.8,high
+5D,D,7,Space,yes,0,phytoplankton,dinoflagellete,2.8,high
+5D,D,12,spike,yes,0,phytoplankton,diatom ,2.8,high
+5D,D,3,pouch,yes,0,phytoplankton,dinoflagellete,2.8,high
+5D,D,1,star,yes,0,phytoplankton,diatom,2.8,high
+5D,D,0,2ball,yes,0,phytoplankton,diatom,2.8,high
+5D,D,0,ladder,yes,0,phytoplankton,diatom ,2.8,high
+5D,D,0,fluffy,yes,0,phytoplankton,misc,2.8,high
+5D,D,0,ex,yes,0,phytoplankton,misc,2.8,high
+5D,D,17,copopod,yes,0,zooplankton,,2.8,high
+5D,D,2,naupilis ,yes,0,zooplankton,,2.8,high
+5D,D,0,foramifera,yes,0,zooplankton,,2.8,high
+5D,D,0,sally,yes,0,zooplankton,,2.8,high
+6D,D,11,CB,yes,0,phytoplankton,diatom,2,high
+6D,D,7,Space,yes,0,phytoplankton,dinoflagellete,2,high
+6D,D,6,spike,yes,0,phytoplankton,diatom ,2,high
+6D,D,3,pouch,yes,0,phytoplankton,dinoflagellete,2,high
+6D,D,1,star,yes,0,phytoplankton,diatom,2,high
+6D,D,0,2ball,yes,0,phytoplankton,diatom,2,high
+6D,D,0,ladder,yes,0,phytoplankton,diatom ,2,high
+6D,D,0,fluffy,yes,0,phytoplankton,misc,2,high
+6D,D,0,ex,yes,0,phytoplankton,misc,2,high
+6D,D,11,copopod,yes,0,zooplankton,,2,high
+6D,D,3,naupilis ,yes,0,zooplankton,,2,high
+6D,D,0,foramifera,yes,0,zooplankton,,2,high
+6D,D,0,sally,yes,0,zooplankton,,2,high
+7D,D,8,CB,yes,0,phytoplankton,diatom,2.9,high
+7D,D,3,Space,yes,0,phytoplankton,dinoflagellete,2.9,high
+7D,D,4,spike,yes,0,phytoplankton,diatom ,2.9,high
+7D,D,2,pouch,yes,0,phytoplankton,dinoflagellete,2.9,high
+7D,D,0,star,yes,0,phytoplankton,diatom,2.9,high
+7D,D,0,2ball,yes,0,phytoplankton,diatom,2.9,high
+7D,D,0,ladder,yes,0,phytoplankton,diatom ,2.9,high
+7D,D,1,fluffy,yes,0,phytoplankton,misc,2.9,high
+7D,D,0,ex,yes,0,phytoplankton,misc,2.9,high
+7D,D,3,copopod,yes,0,zooplankton,,2.9,high
+7D,D,2,naupilis ,yes,0,zooplankton,,2.9,high
+7D,D,0,foramifera,yes,0,zooplankton,,2.9,high
+7D,D,0,sally,yes,0,zooplankton,,2.9,high
+8D,D,9,CB,yes,0,phytoplankton,diatom,1.5,high
+8D,D,2,Space,yes,0,phytoplankton,dinoflagellete,1.5,high
+8D,D,3,spike,yes,0,phytoplankton,diatom ,1.5,high
+8D,D,3,pouch,yes,0,phytoplankton,dinoflagellete,1.5,high
+8D,D,0,star,yes,0,phytoplankton,diatom,1.5,high
+8D,D,0,2ball,yes,0,phytoplankton,diatom,1.5,high
+8D,D,0,ladder,yes,0,phytoplankton,diatom ,1.5,high
+8D,D,1,fluffy,yes,0,phytoplankton,misc,1.5,high
+8D,D,0,ex,yes,0,phytoplankton,misc,1.5,high
+8D,D,0,copopod,yes,0,zooplankton,,1.5,high
+8D,D,1,naupilis ,yes,0,zooplankton,,1.5,high
+8D,D,0,foramifera,yes,0,zooplankton,,1.5,high
+8D,D,3,sally,yes,0,zooplankton,,1.5,high
+9D,D,9,CB,yes,0,phytoplankton,diatom,2.5,high
+9D,D,2,Space,yes,0,phytoplankton,dinoflagellete,2.5,high
+9D,D,0,spike,yes,0,phytoplankton,diatom ,2.5,high
+9D,D,5,pouch,yes,0,phytoplankton,dinoflagellete,2.5,high
+9D,D,0,star,yes,0,phytoplankton,diatom,2.5,high
+9D,D,0,2ball,yes,0,phytoplankton,diatom,2.5,high
+9D,D,0,ladder,yes,0,phytoplankton,diatom ,2.5,high
+9D,D,0,fluffy,yes,0,phytoplankton,misc,2.5,high
+9D,D,0,ex,yes,0,phytoplankton,misc,2.5,high
+9D,D,1,copopod,yes,0,zooplankton,,2.5,high
+9D,D,0,naupilis ,yes,0,zooplankton,,2.5,high
+9D,D,0,foramifera,yes,0,zooplankton,,2.5,high
+9D,D,0,sally,yes,0,zooplankton,,2.5,high
+10D,D,7,CB,yes,0,phytoplankton,diatom,1.5,high
+10D,D,0,Space,yes,0,phytoplankton,dinoflagellete,1.5,high
+10D,D,5,spike,yes,0,phytoplankton,diatom ,1.5,high
+10D,D,3,pouch,yes,0,phytoplankton,dinoflagellete,1.5,high
+10D,D,0,star,yes,0,phytoplankton,diatom,1.5,high
+10D,D,0,2ball,yes,0,phytoplankton,diatom,1.5,high
+10D,D,0,ladder,yes,0,phytoplankton,diatom ,1.5,high
+10D,D,0,fluffy,yes,0,phytoplankton,misc,1.5,high
+10D,D,0,ex,yes,0,phytoplankton,misc,1.5,high
+10D,D,0,copopod,yes,0,zooplankton,,1.5,high
+10D,D,0,naupilis ,yes,0,zooplankton,,1.5,high
+10D,D,0,foramifera,yes,0,zooplankton,,1.5,high
+10D,D,0,sally,yes,0,zooplankton,,1.5,high
+11D,D,7,CB,yes,0,phytoplankton,diatom,3.3,high
+11D,D,3,Space,yes,0,phytoplankton,dinoflagellete,3.3,high
+11D,D,5,spike,yes,0,phytoplankton,diatom ,3.3,high
+11D,D,6,pouch,yes,0,phytoplankton,dinoflagellete,3.3,high
+11D,D,0,star,yes,0,phytoplankton,diatom,3.3,high
+11D,D,1,2ball,yes,0,phytoplankton,diatom,3.3,high
+11D,D,0,ladder,yes,0,phytoplankton,diatom ,3.3,high
+11D,D,0,fluffy,yes,0,phytoplankton,misc,3.3,high
+11D,D,0,ex,yes,0,phytoplankton,misc,3.3,high
+11D,D,1,copopod,yes,0,zooplankton,,3.3,high
+11D,D,6,naupilis ,yes,0,zooplankton,,3.3,high
+11D,D,2,foramifera,yes,0,zooplankton,,3.3,high
+11D,D,5,sally,yes,0,zooplankton,,3.3,high
+12D,D,11,CB,no,20,phytoplankton,diatom,4.2,medium
+12D,D,36,Space,no,20,phytoplankton,dinoflagellete,4.2,medium
+12D,D,21,spike,no,20,phytoplankton,diatom ,4.2,medium
+12D,D,6,pouch,no,20,phytoplankton,dinoflagellete,4.2,medium
+12D,D,2,star,no,20,phytoplankton,diatom,4.2,medium
+12D,D,0,2ball,no,20,phytoplankton,diatom,4.2,medium
+12D,D,0,ladder,no,20,phytoplankton,diatom ,4.2,medium
+12D,D,0,fluffy,no,20,phytoplankton,misc,4.2,medium
+12D,D,0,ex,no,20,phytoplankton,misc,4.2,medium
+12D,D,57,copopod,no,20,zooplankton,,4.2,medium
+12D,D,45,naupilis ,no,20,zooplankton,,4.2,medium
+12D,D,1,foramifera,no,20,zooplankton,,4.2,medium
+12D,D,7,sally,no,20,zooplankton,,4.2,medium
+13D,D,58,CB,no,20,phytoplankton,diatom,4.2,medium
+13D,D,87,Space,no,20,phytoplankton,dinoflagellete,4.2,medium
+13D,D,111,spike,no,20,phytoplankton,diatom ,4.2,medium
+13D,D,24,pouch,no,20,phytoplankton,dinoflagellete,4.2,medium
+13D,D,1,star,no,20,phytoplankton,diatom,4.2,medium
+13D,D,0,2ball,no,20,phytoplankton,diatom,4.2,medium
+13D,D,0,ladder,no,20,phytoplankton,diatom ,4.2,medium
+13D,D,1,fluffy,no,20,phytoplankton,misc,4.2,medium
+13D,D,0,ex,no,20,phytoplankton,misc,4.2,medium
+13D,D,220,copopod,no,20,zooplankton,,4.2,medium
+13D,D,66,naupilis ,no,20,zooplankton,,4.2,medium
+13D,D,4,foramifera,no,20,zooplankton,,4.2,medium
+13D,D,6,sally,no,20,zooplankton,,4.2,medium
+14D,D,142,CB,no,20,phytoplankton,diatom,4.6,medium
+14D,D,128,Space,no,20,phytoplankton,dinoflagellete,4.6,medium
+14D,D,148,spike,no,20,phytoplankton,diatom ,4.6,medium
+14D,D,33,pouch,no,20,phytoplankton,dinoflagellete,4.6,medium
+14D,D,1,star,no,20,phytoplankton,diatom,4.6,medium
+14D,D,0,2ball,no,20,phytoplankton,diatom,4.6,medium
+14D,D,0,ladder,no,20,phytoplankton,diatom ,4.6,medium
+14D,D,1,fluffy,no,20,phytoplankton,misc,4.6,medium
+14D,D,0,ex,no,20,phytoplankton,misc,4.6,medium
+14D,D,88,copopod,no,20,zooplankton,,4.6,medium
+14D,D,53,naupilis ,no,20,zooplankton,,4.6,medium
+14D,D,1,foramifera,no,20,zooplankton,,4.6,medium
+14D,D,3,sally,no,20,zooplankton,,4.6,medium
+15D,D,10,CB,yes,0,phytoplankton,diatom,3.5,high
+15D,D,15,Space,yes,0,phytoplankton,dinoflagellete,3.5,high
+15D,D,17,spike,yes,0,phytoplankton,diatom ,3.5,high
+15D,D,6,pouch,yes,0,phytoplankton,dinoflagellete,3.5,high
+15D,D,0,star,yes,0,phytoplankton,diatom,3.5,high
+15D,D,0,2ball,yes,0,phytoplankton,diatom,3.5,high
+15D,D,0,ladder,yes,0,phytoplankton,diatom ,3.5,high
+15D,D,0,fluffy,yes,0,phytoplankton,misc,3.5,high
+15D,D,0,ex,yes,0,phytoplankton,misc,3.5,high
+15D,D,3,copopod,yes,0,zooplankton,,3.5,high
+15D,D,2,naupilis ,yes,0,zooplankton,,3.5,high
+15D,D,0,foramifera,yes,0,zooplankton,,3.5,high
+15D,D,0,sally,yes,0,zooplankton,,3.5,high
+16D,D,27,CB,yes,0,phytoplankton,diatom,2.6,high
+16D,D,11,Space,yes,0,phytoplankton,dinoflagellete,2.6,high
+16D,D,8,spike,yes,0,phytoplankton,diatom ,2.6,high
+16D,D,3,pouch,yes,0,phytoplankton,dinoflagellete,2.6,high
+16D,D,0,star,yes,0,phytoplankton,diatom,2.6,high
+16D,D,0,2ball,yes,0,phytoplankton,diatom,2.6,high
+16D,D,0,ladder,yes,0,phytoplankton,diatom ,2.6,high
+16D,D,0,fluffy,yes,0,phytoplankton,misc,2.6,high
+16D,D,0,ex,yes,0,phytoplankton,misc,2.6,high
+16D,D,6,copopod,yes,0,zooplankton,,2.6,high
+16D,D,0,naupilis ,yes,0,zooplankton,,2.6,high
+16D,D,0,foramifera,yes,0,zooplankton,,2.6,high
+16D,D,0,sally,yes,0,zooplankton,,2.6,high
+1E,E,12,CB,yes,0,phytoplankton,diatom,2.3,high
+1E,E,9,Space,yes,0,phytoplankton,dinoflagellete,2.3,high
+1E,E,6,spike,yes,0,phytoplankton,diatom ,2.3,high
+1E,E,3,pouch,yes,0,phytoplankton,dinoflagellete,2.3,high
+1E,E,2,star,yes,0,phytoplankton,diatom,2.3,high
+1E,E,0,2ball,yes,0,phytoplankton,diatom,2.3,high
+1E,E,0,ladder,yes,0,phytoplankton,diatom ,2.3,high
+1E,E,0,fluffy,yes,0,phytoplankton,misc,2.3,high
+1E,E,0,ex,yes,0,phytoplankton,misc,2.3,high
+1E,E,7,copopod,yes,0,zooplankton,,2.3,high
+1E,E,2,naupilis ,yes,0,zooplankton,,2.3,high
+1E,E,0,foramifera,yes,0,zooplankton,,2.3,high
+1E,E,3,sally,yes,0,zooplankton,,2.3,high
+2E,E,47,CB,yes,0,phytoplankton,diatom,5.7,high
+2E,E,56,Space,yes,0,phytoplankton,dinoflagellete,5.7,high
+2E,E,41,spike,yes,0,phytoplankton,diatom ,5.7,high
+2E,E,6,pouch,yes,0,phytoplankton,dinoflagellete,5.7,high
+2E,E,0,star,yes,0,phytoplankton,diatom,5.7,high
+2E,E,0,2ball,yes,0,phytoplankton,diatom,5.7,high
+2E,E,0,ladder,yes,0,phytoplankton,diatom ,5.7,high
+2E,E,0,fluffy,yes,0,phytoplankton,misc,5.7,high
+2E,E,0,ex,yes,0,phytoplankton,misc,5.7,high
+2E,E,80,copopod,yes,0,zooplankton,,5.7,high
+2E,E,15,naupilis ,yes,0,zooplankton,,5.7,high
+2E,E,2,foramifera,yes,0,zooplankton,,5.7,high
+2E,E,2,sally,yes,0,zooplankton,,5.7,high
+3E,E,97,CB,yes,0,phytoplankton,diatom,6.9,high
+3E,E,149,Space,yes,0,phytoplankton,dinoflagellete,6.9,high
+3E,E,99,spike,yes,0,phytoplankton,diatom ,6.9,high
+3E,E,23,pouch,yes,0,phytoplankton,dinoflagellete,6.9,high
+3E,E,2,star,yes,0,phytoplankton,diatom,6.9,high
+3E,E,0,2ball,yes,0,phytoplankton,diatom,6.9,high
+3E,E,0,ladder,yes,0,phytoplankton,diatom ,6.9,high
+3E,E,0,fluffy,yes,0,phytoplankton,misc,6.9,high
+3E,E,0,ex,yes,0,phytoplankton,misc,6.9,high
+3E,E,195,copopod,yes,0,zooplankton,,6.9,high
+3E,E,28,naupilis ,yes,0,zooplankton,,6.9,high
+3E,E,1,foramifera,yes,0,zooplankton,,6.9,high
+3E,E,0,sally,yes,0,zooplankton,,6.9,high
+4E,E,81,CB,yes,0,phytoplankton,diatom,6.9,high
+4E,E,122,Space,yes,0,phytoplankton,dinoflagellete,6.9,high
+4E,E,61,spike,yes,0,phytoplankton,diatom ,6.9,high
+4E,E,19,pouch,yes,0,phytoplankton,dinoflagellete,6.9,high
+4E,E,2,star,yes,0,phytoplankton,diatom,6.9,high
+4E,E,1,2ball,yes,0,phytoplankton,diatom,6.9,high
+4E,E,0,ladder,yes,0,phytoplankton,diatom ,6.9,high
+4E,E,0,fluffy,yes,0,phytoplankton,misc,6.9,high
+4E,E,1,ex,yes,0,phytoplankton,misc,6.9,high
+4E,E,177,copopod,yes,0,zooplankton,,6.9,high
+4E,E,33,naupilis ,yes,0,zooplankton,,6.9,high
+4E,E,0,foramifera,yes,0,zooplankton,,6.9,high
+4E,E,14,sally,yes,0,zooplankton,,6.9,high
+5E,E,42,CB,yes,0,phytoplankton,diatom,5.5,high
+5E,E,31,Space,yes,0,phytoplankton,dinoflagellete,5.5,high
+5E,E,30,spike,yes,0,phytoplankton,diatom ,5.5,high
+5E,E,9,pouch,yes,0,phytoplankton,dinoflagellete,5.5,high
+5E,E,1,star,yes,0,phytoplankton,diatom,5.5,high
+5E,E,0,2ball,yes,0,phytoplankton,diatom,5.5,high
+5E,E,0,ladder,yes,0,phytoplankton,diatom ,5.5,high
+5E,E,0,fluffy,yes,0,phytoplankton,misc,5.5,high
+5E,E,0,ex,yes,0,phytoplankton,misc,5.5,high
+5E,E,109,copopod,yes,0,zooplankton,,5.5,high
+5E,E,35,naupilis ,yes,0,zooplankton,,5.5,high
+5E,E,0,foramifera,yes,0,zooplankton,,5.5,high
+5E,E,6,sally,yes,0,zooplankton,,5.5,high
+6E,E,58,CB,yes,0,phytoplankton,diatom,5.3,high
+6E,E,56,Space,yes,0,phytoplankton,dinoflagellete,5.3,high
+6E,E,35,spike,yes,0,phytoplankton,diatom ,5.3,high
+6E,E,17,pouch,yes,0,phytoplankton,dinoflagellete,5.3,high
+6E,E,0,star,yes,0,phytoplankton,diatom,5.3,high
+6E,E,0,2ball,yes,0,phytoplankton,diatom,5.3,high
+6E,E,0,ladder,yes,0,phytoplankton,diatom ,5.3,high
+6E,E,0,fluffy,yes,0,phytoplankton,misc,5.3,high
+6E,E,0,ex,yes,0,phytoplankton,misc,5.3,high
+6E,E,83,copopod,yes,0,zooplankton,,5.3,high
+6E,E,32,naupilis ,yes,0,zooplankton,,5.3,high
+6E,E,0,foramifera,yes,0,zooplankton,,5.3,high
+6E,E,4,sally,yes,0,zooplankton,,5.3,high
+7E,E,53,CB,yes,0,phytoplankton,diatom,3.2,high
+7E,E,41,Space,yes,0,phytoplankton,dinoflagellete,3.2,high
+7E,E,48,spike,yes,0,phytoplankton,diatom ,3.2,high
+7E,E,14,pouch,yes,0,phytoplankton,dinoflagellete,3.2,high
+7E,E,2,star,yes,0,phytoplankton,diatom,3.2,high
+7E,E,0,2ball,yes,0,phytoplankton,diatom,3.2,high
+7E,E,0,ladder,yes,0,phytoplankton,diatom ,3.2,high
+7E,E,0,fluffy,yes,0,phytoplankton,misc,3.2,high
+7E,E,0,ex,yes,0,phytoplankton,misc,3.2,high
+7E,E,28,copopod,yes,0,zooplankton,,3.2,high
+7E,E,24,naupilis ,yes,0,zooplankton,,3.2,high
+7E,E,1,foramifera,yes,0,zooplankton,,3.2,high
+7E,E,0,sally,yes,0,zooplankton,,3.2,high
+8E,E,11,CB,yes,0,phytoplankton,diatom,3.5,high
+8E,E,6,Space,yes,0,phytoplankton,dinoflagellete,3.5,high
+8E,E,3,spike,yes,0,phytoplankton,diatom ,3.5,high
+8E,E,4,pouch,yes,0,phytoplankton,dinoflagellete,3.5,high
+8E,E,2,star,yes,0,phytoplankton,diatom,3.5,high
+8E,E,0,2ball,yes,0,phytoplankton,diatom,3.5,high
+8E,E,1,ladder,yes,0,phytoplankton,diatom ,3.5,high
+8E,E,0,fluffy,yes,0,phytoplankton,misc,3.5,high
+8E,E,0,ex,yes,0,phytoplankton,misc,3.5,high
+8E,E,16,copopod,yes,0,zooplankton,,3.5,high
+8E,E,0,naupilis ,yes,0,zooplankton,,3.5,high
+8E,E,0,foramifera,yes,0,zooplankton,,3.5,high
+8E,E,0,sally,yes,0,zooplankton,,3.5,high
+9E,E,14,CB,yes,0,phytoplankton,diatom,3.4,high
+9E,E,6,Space,yes,0,phytoplankton,dinoflagellete,3.4,high
+9E,E,7,spike,yes,0,phytoplankton,diatom ,3.4,high
+9E,E,2,pouch,yes,0,phytoplankton,dinoflagellete,3.4,high
+9E,E,1,star,yes,0,phytoplankton,diatom,3.4,high
+9E,E,0,2ball,yes,0,phytoplankton,diatom,3.4,high
+9E,E,0,ladder,yes,0,phytoplankton,diatom ,3.4,high
+9E,E,0,fluffy,yes,0,phytoplankton,misc,3.4,high
+9E,E,0,ex,yes,0,phytoplankton,misc,3.4,high
+9E,E,48,copopod,yes,0,zooplankton,,3.4,high
+9E,E,0,naupilis ,yes,0,zooplankton,,3.4,high
+9E,E,1,foramifera,yes,0,zooplankton,,3.4,high
+9E,E,0,sally,yes,0,zooplankton,,3.4,high
+10E,E,26,CB,yes,0,phytoplankton,diatom,4.8,high
+10E,E,13,Space,yes,0,phytoplankton,dinoflagellete,4.8,high
+10E,E,16,spike,yes,0,phytoplankton,diatom ,4.8,high
+10E,E,7,pouch,yes,0,phytoplankton,dinoflagellete,4.8,high
+10E,E,1,star,yes,0,phytoplankton,diatom,4.8,high
+10E,E,1,2ball,yes,0,phytoplankton,diatom,4.8,high
+10E,E,0,ladder,yes,0,phytoplankton,diatom ,4.8,high
+10E,E,0,fluffy,yes,0,phytoplankton,misc,4.8,high
+10E,E,0,ex,yes,0,phytoplankton,misc,4.8,high
+10E,E,62,copopod,yes,0,zooplankton,,4.8,high
+10E,E,14,naupilis ,yes,0,zooplankton,,4.8,high
+10E,E,2,foramifera,yes,0,zooplankton,,4.8,high
+10E,E,2,sally,yes,0,zooplankton,,4.8,high
+11E,E,47,CB,yes,0,phytoplankton,diatom,5.3,high
+11E,E,86,Space,yes,0,phytoplankton,dinoflagellete,5.3,high
+11E,E,42,spike,yes,0,phytoplankton,diatom ,5.3,high
+11E,E,13,pouch,yes,0,phytoplankton,dinoflagellete,5.3,high
+11E,E,0,star,yes,0,phytoplankton,diatom,5.3,high
+11E,E,0,2ball,yes,0,phytoplankton,diatom,5.3,high
+11E,E,1,ladder,yes,0,phytoplankton,diatom ,5.3,high
+11E,E,0,fluffy,yes,0,phytoplankton,misc,5.3,high
+11E,E,0,ex,yes,0,phytoplankton,misc,5.3,high
+11E,E,153,copopod,yes,0,zooplankton,,5.3,high
+11E,E,41,naupilis ,yes,0,zooplankton,,5.3,high
+11E,E,5,foramifera,yes,0,zooplankton,,5.3,high
+11E,E,6,sally,yes,0,zooplankton,,5.3,high
+12E,E,67,CB,yes,0,phytoplankton,diatom,6.4,high
+12E,E,47,Space,yes,0,phytoplankton,dinoflagellete,6.4,high
+12E,E,40,spike,yes,0,phytoplankton,diatom ,6.4,high
+12E,E,10,pouch,yes,0,phytoplankton,dinoflagellete,6.4,high
+12E,E,2,star,yes,0,phytoplankton,diatom,6.4,high
+12E,E,0,2ball,yes,0,phytoplankton,diatom,6.4,high
+12E,E,0,ladder,yes,0,phytoplankton,diatom ,6.4,high
+12E,E,0,fluffy,yes,0,phytoplankton,misc,6.4,high
+12E,E,0,ex,yes,0,phytoplankton,misc,6.4,high
+12E,E,273,copopod,yes,0,zooplankton,,6.4,high
+12E,E,8,naupilis ,yes,0,zooplankton,,6.4,high
+12E,E,6,foramifera,yes,0,zooplankton,,6.4,high
+12E,E,0,sally,yes,0,zooplankton,,6.4,high
+13E,E,15,CB,yes,0,phytoplankton,diatom,5,high
+13E,E,8,Space,yes,0,phytoplankton,dinoflagellete,5,high
+13E,E,23,spike,yes,0,phytoplankton,diatom ,5,high
+13E,E,1,pouch,yes,0,phytoplankton,dinoflagellete,5,high
+13E,E,0,star,yes,0,phytoplankton,diatom,5,high
+13E,E,0,2ball,yes,0,phytoplankton,diatom,5,high
+13E,E,0,ladder,yes,0,phytoplankton,diatom ,5,high
+13E,E,0,fluffy,yes,0,phytoplankton,misc,5,high
+13E,E,0,ex,yes,0,phytoplankton,misc,5,high
+13E,E,116,copopod,yes,0,zooplankton,,5,high
+13E,E,8,naupilis ,yes,0,zooplankton,,5,high
+13E,E,1,foramifera,yes,0,zooplankton,,5,high
+13E,E,5,sally,yes,0,zooplankton,,5,high
+14E,E,46,CB,yes,0,phytoplankton,diatom,4.8,high
+14E,E,73,Space,yes,0,phytoplankton,dinoflagellete,4.8,high
+14E,E,34,spike,yes,0,phytoplankton,diatom ,4.8,high
+14E,E,13,pouch,yes,0,phytoplankton,dinoflagellete,4.8,high
+14E,E,2,star,yes,0,phytoplankton,diatom,4.8,high
+14E,E,0,2ball,yes,0,phytoplankton,diatom,4.8,high
+14E,E,1,ladder,yes,0,phytoplankton,diatom ,4.8,high
+14E,E,0,fluffy,yes,0,phytoplankton,misc,4.8,high
+14E,E,0,ex,yes,0,phytoplankton,misc,4.8,high
+14E,E,177,copopod,yes,0,zooplankton,,4.8,high
+14E,E,30,naupilis ,yes,0,zooplankton,,4.8,high
+14E,E,3,foramifera,yes,0,zooplankton,,4.8,high
+14E,E,5,sally,yes,0,zooplankton,,4.8,high

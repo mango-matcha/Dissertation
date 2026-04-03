@@ -1,6 +1,6 @@
 # Dissertation
 Github for all of the coding for my dissertation: The Influence of Scottish Kelp Forests on Plankton Community Composition
 
-data: Final-Diss.csv(also found as excel)
-R script: DISS-SCRIPT
-Figures: In "figures" folder
+1. Data: Final-Diss.csv (also provided in excel)
+2. R script: DISS-SCRIPT
+3. Figures: In "figures" folder
